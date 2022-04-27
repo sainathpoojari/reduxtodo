@@ -1,0 +1,18 @@
+.removeall-btn{
+    padding: 5px 5px;
+    margin: 5px 5px
+}
+.list{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.list button {
+    margin: 16px 17px;
+    padding: 0px 18px;
+}
+.body{
+    background-color: aqua;
+}
